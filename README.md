@@ -40,3 +40,6 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
   * Links - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-de-html/links)
   * Tabelas - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-de-html/tabelas)
   * Cabeçalho - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-de-html/cabecalho)
+
+3 - Guia Estelar de CSS 🚧
+  * Guia Estelar de CSS - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-de-css)
