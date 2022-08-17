@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Utilizando a médida rem</title>
+    <style>
+
+        /* Se modificar o root, as unidades que estiverem com rem vão ser modificadas também */
+        /* :root {
+            font-size: 10px;
+        } */
+
+        .testando-rem {
+            font-size: 4rem; /* A médida rem puxa direto do root, por padrão equivale a 16px */
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <p class="testando-rem">Contéudo interessante</p>
+    </div>
+</body>
+</html>
