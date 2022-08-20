@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox</title>
+
+    <style>
+        .flexbox {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .item:nth-child(3) {
+            order: 1;
+        }
+
+        .item:nth-child(2) {
+            order: 2;
+        }
+
+        .item:nth-child(1) {
+            order: 3;
+        }
+    </style>
+</head>
+<body>
+    <div class="flexbox">
+        <div class="item">Item 1</div>
+        <div class="item">Item 2</div>
+        <div class="item">Item 3</div>
+    </div>
+</body>
+</html>
