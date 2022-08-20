@@ -50,7 +50,8 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
 5 - Uma caixa dentro da outra 🚧
   * Uma caixa dentro da outra - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/uma-caixa-dentro-da-outra)
 
-6 - Alinhando os planetas 🚧
+6 - Alinhando os planetas ✔️
   * Layouts css - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/layouts-css)
   * Terminologia - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/terminologia)
   * Propriedades flex container - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/propriedades-flex-container)
+  * Propriedades flex items - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/propriedades-flex-items)
