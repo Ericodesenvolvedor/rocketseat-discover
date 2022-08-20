@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    gap: 1rem;
+    min-height: 100vh;
+}
+
+.row aside {
+    flex-basis: 25%;
+    background-color: lightgreen;
+}
+
+.row main {
+    flex: 1;
+    background-color: lightsalmon;
+}
