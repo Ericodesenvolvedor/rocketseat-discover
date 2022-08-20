@@ -1,0 +1,1 @@
+O objetivo do desafio era criar 3 colunas contendo 9 fotos.
