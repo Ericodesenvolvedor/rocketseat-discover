@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento dos itens no eixo cruzado</title>
+
+    <style>
+        .flexbox {
+            border: 1px dashed red;
+            display: flex;
+            align-items: center; /* stretch é o valor padrão desta propriedade.*/
+            height: 100vh;
+        }
+
+        .item {
+            border: 1px solid black;
+            width: 80px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flexbox">
+        <div class="item">1</div>
+        <div class="item">2</div>
+        <div class="item">3</div>
+        <div class="item">4</div>
+    </div>
+</body>
+</html>
