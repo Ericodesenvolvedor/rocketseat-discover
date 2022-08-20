@@ -1,0 +1,14 @@
+button {
+    display: flex;
+    align-items: center;
+    line-height: 0;
+
+    gap: .4rem;
+    margin: 0;
+    padding: 1rem;
+}
+
+button img {
+    width: 2rem;
+    height: 2rem;
+}
