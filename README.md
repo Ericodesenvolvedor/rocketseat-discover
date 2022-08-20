@@ -55,3 +55,7 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
   * Terminologia - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/terminologia)
   * Propriedades flex container - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/propriedades-flex-container)
   * Propriedades flex items - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/propriedades-flex-items)
+
+7 - Agora sim, cores ✔️
+  * Cores - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/agora-sim-cores/cores)
+  * Background - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/agora-sim-cores/background)
