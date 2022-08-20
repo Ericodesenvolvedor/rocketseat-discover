@@ -52,3 +52,4 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
 
 6 - Alinhando os planetas 🚧
   * Layouts css - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/layouts-css)
+  * Terminologia - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alinhando-os-planetas/terminologia)
