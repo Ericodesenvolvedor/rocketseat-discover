@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Direção e multi linha em uma única propriedade</title>
+    <title>Alinhamento dos itens no eixo principal</title>
 
     <style>
         .flexbox {
-            display: flex; 
-            flex-flow: row wrap; /* Shorthand flex-direction e flex-wrap */
             border: 1px dashed red;
+            display: flex; 
+            justify-content: flex-start; 
+            /* Trabalha o alinhamento dos itens no eixo main dentro do container */
         }
 
         .item {
             border: 1px solid black;
             width: 80px;
-            padding: 1rem;
         }
     </style>
 </head>
