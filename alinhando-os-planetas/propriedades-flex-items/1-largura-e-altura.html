@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Largura e altura dos itens com flex-basis</title>
+
+    <style>
+        .flexbox {
+            border: 1px dashed red;
+            display: flex;
+            flex-direction: column; 
+        }
+
+        .item {
+            border: 1px solid black;
+            width: 80px;
+            flex-basis: 80px;
+            /* O flex-basis vai mudar altura ou largura do elemento de acordo com o seu eixo. [flex-direction] */
+        }
+    </style>
+</head>
+<body>
+    <div class="flexbox">
+        <div class="item">1</div>
+        <div class="item">2</div>
+        <div class="item">3</div>
+        <div class="item">4</div>
+    </div>
+</body>
+</html>
