@@ -1,0 +1,6 @@
+1 - Criar um elemento header.
+2 - Dentro do header criar um elemento nav
+3 - Dentro do nav criar 2 elementos, uma lista e outra para colocar a logo.
+4 - Os itens dentro do nav devem estar ao lado do outro e o espaçamento deve estar cada um em uma ponta.
+5 - Na lista deve haver um espaçamento de 0.8rem entre os itens.
+6 - Usar a pseudo-class last-child para estilizar o botão.

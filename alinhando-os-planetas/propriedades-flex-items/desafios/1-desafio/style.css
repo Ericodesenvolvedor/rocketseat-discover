@@ -1,0 +1,35 @@
+header {
+    background-color: lightgrey;
+}
+
+header nav {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+header ul {
+    display: flex;
+    gap: 0.8rem;
+    list-style: none;
+}
+
+header ul li {
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+
+header ul li:last-child button {
+    background-color: lightcoral;
+    text-transform: uppercase;
+    border: none;
+    padding: .5rem 1rem;
+    border-radius: .3rem;
+}
