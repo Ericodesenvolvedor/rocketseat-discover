@@ -59,3 +59,8 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
 7 - Agora sim, cores ✔️
   * Cores - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/agora-sim-cores/cores)
   * Background - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/agora-sim-cores/background)
+
+8 - Nem só de classes ou IDs ✔️
+  * Selectors and combinators - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alem-de-ids-e-classes/selectors-and-combinators)
+  * Pseudo classes - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alem-de-ids-e-classes/pseudo-classes)
+  * Pseudo elementos - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alem-de-ids-e-classes/pseudo-elementos)
