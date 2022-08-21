@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo elements</title>
+    <style>
+        /* After e before precisam ter um content mesmo que seja vázio. */
+        ul li::after {
+            content: ";";
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>Gratidão</li>
+        <li>Esperança</li>
+        <li>Fé</li>
+        <li>Liberdade</li>
+    </ul>
+</body>
+</html>
