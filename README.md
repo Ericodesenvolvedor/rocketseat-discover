@@ -70,3 +70,4 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
   * Variaveis - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/variaveis)
   * Praticando e avançando - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/praticando-e-avancando)
   * Funções - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/funcoes)
+  * Manipulando dados - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/manipulando-dados)
