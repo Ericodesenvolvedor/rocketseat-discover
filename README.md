@@ -64,3 +64,9 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
   * Selectors and combinators - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alem-de-ids-e-classes/selectors-and-combinators)
   * Pseudo classes - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alem-de-ids-e-classes/pseudo-classes)
   * Pseudo elementos - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/alem-de-ids-e-classes/pseudo-elementos)
+
+9 - Guia estelar de javasript 🚧
+  * Tipo de dados - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/tipo-de-dados)
+  * Variaveis - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/variaveis)
+  * Praticando e avançando - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/praticando-e-avancando)
+  * Funções - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/funcoes)
