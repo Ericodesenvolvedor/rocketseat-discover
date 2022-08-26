@@ -74,3 +74,12 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
   * Controle de fluxo - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/controle-de-fluxo)
   * Estruturas de repetição - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/estruturas-de-repeticao)
   * Consolidando com exercicios - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/guia-estelar-javascript/consolidando-com-exercicios)
+
+10 - Pilotando com a dom ✔️
+  * Selecionando elementos - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/selecionando-elementos)
+  * Manipulando conteúdo - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/manipulando-conteudo)
+  * Manipulando estilos e classes - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/manipulando-estilos)
+  * Navegando pelos elementos - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/navegando-pelos-elementos)
+  * Adicionando elementos na página - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/adicionando-elementos-na-pagina)
+  * Eventos - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/eventos)
+  * Praticando - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/praticando)
