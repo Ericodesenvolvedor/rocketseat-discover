@@ -1,0 +1,14 @@
+{
+  "name": "2-npm-install",
+  "version": "1.0.0",
+  "description": "Instalando via npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.1.1"
+  }
+}
