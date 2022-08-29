@@ -83,3 +83,10 @@ No Fundamentar, você vai construir suas primeiras aplicações, e se tornará c
   * Adicionando elementos na página - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/adicionando-elementos-na-pagina)
   * Eventos - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/eventos)
   * Praticando - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/pilotando-com-a-dom/praticando)
+
+11 - NodeJs ✔️
+  * Iniciando Pratica - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/node-js/iniciando-pratica)
+  * Npm - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/node-js/npm)
+  * BestMeApp - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/node-js/bestMeApp)
+  * Timers - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/node-js/timers)
+  * Events - [Clique para ver](https://github.com/Ericodesenvolvedor/rocketseat-discover/tree/master/node-js/events_) 
